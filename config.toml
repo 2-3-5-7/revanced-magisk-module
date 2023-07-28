@@ -40,6 +40,8 @@ apkmirror-arch = "both"
 [Twitter]
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
+included-patches = "hide-ads"
+exclusive-patches = true
 
 [Twitch]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
