@@ -4,8 +4,8 @@ Music (arm64-v8a): 6.12.53
 Music (arm-v7a): 6.12.53  
 Music-Extended (arm64-v8a): 6.12.53  
 Music-Extended (arm-v7a): 6.12.53  
-Twitter: 10.0.0-release.0  
 Twitch: 15.4.1  
+Twitter: 10.0.0-release.0  
 TikTok: 30.6.4  
 Reddit: 2023.29.0  
 Messenger: 419.0.0.10.49  
